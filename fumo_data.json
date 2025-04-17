@@ -2525,6 +2525,21 @@
                 }
             ]
         },
+		{
+            "ch_name": "Tatara Kogasa",
+            "thwiki": "https://en.touhouwiki.net/wiki/Kogasa_Tatara",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1069",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1069_01.jpg",
+                    "release_dates": [
+                        2024
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1069.html"
+                }
+            ]
+        },
         {
             "ch_name": "Houjuu Nue",
             "thwiki": "https://en.touhouwiki.net/wiki/Nue_Houjuu",
@@ -3786,14 +3801,6 @@
                     "とうてつゆうま"
                 ],
                 "en": "Toutetsu Yuuma"
-            },
-            {
-                "type": "Character",
-                "jp": "聖白蓮",
-                "jp_alt": [
-                    "ひじりびゃくれん"
-                ],
-                "en": "Hijiri Byakuren"
             }
         ]
     },
