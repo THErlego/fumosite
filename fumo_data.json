@@ -1103,7 +1103,18 @@
                     "second_hand_cost": "Very High",
                     "gift_link": "https://www.gift-gift.jp/nui/nui559.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04390416"
-                }
+                },
+				{
+					"name": "Hisoutensoku",
+                    "id": "1184",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1184_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "rarity": "Common",
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1184.html",
+                    "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04649339"
+				}
             ],
             "straps": [
                 {
