@@ -84,6 +84,16 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui983.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04366745"
+                },
+                {
+                    "name": "Green ver.",
+                    "id": "1212",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1212_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1212.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ],
             "straps": [
@@ -282,6 +292,16 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1036.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417657"
+                },
+                {
+                    "name": "White ver.",
+                    "id": "1213",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1213_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1213.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ],
             "straps": [
@@ -511,6 +531,15 @@
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui853.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04299811"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1222",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1222_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1222.html"
                 }
             ]
         },
@@ -648,6 +677,15 @@
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui851.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04257770"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1221",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1221_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1221.html"
                 }
 
             ]
@@ -936,6 +974,15 @@
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui852.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04198128"
+                },
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1223",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1223_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1223.html"
                 }
             ]
         },
@@ -1510,6 +1557,18 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui982.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347191"
                 }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1220",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1220_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1220.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
             ]
         },
         {
@@ -1556,6 +1615,18 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui981.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347189"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1219",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1219_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1219.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1614,6 +1685,18 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui980.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04347187"
+                }
+            ],
+            "mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1218",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1218_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1218.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
                 }
             ]
         },
@@ -1859,7 +1942,8 @@
                         2016,
                         2020,
                         2021,
-                        2023
+                        2023,
+						2025
                     ],
                     "rarity": "Rare",
                     "second_hand_cost": "Normal",
@@ -1918,7 +2002,8 @@
                         2015,
                         2020,
                         2021,
-                        2023
+                        2023,
+						2025
                     ],
                     "rarity": "Uncommon",
                     "second_hand_cost": "Normal",
@@ -1984,7 +2069,19 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui454.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04437494"
                 }
-            ]
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1226",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1226_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1226.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
         },
         {
             "ch_name": "Shameimaru Aya",
@@ -2131,7 +2228,19 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui644.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04270992"
                 }
-            ]
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1224",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1224_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1224.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
         },
         {
             "ch_name": "Kazami Yuuka",
@@ -2153,7 +2262,19 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui685.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04437496"
                 }
-            ]
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1227",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1227_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1227.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
         },
         {
             "ch_name": "Inubashiri Momiji",
@@ -2285,7 +2406,19 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui837.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04270994"
                 }
-            ]
+            ],
+			"straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1225",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1225_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1225.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
         },
         {
             "ch_name": "Usami Renko",
@@ -2587,6 +2720,18 @@
         {
             "ch_name": "Koakuma",
             "thwiki": "https://en.touhouwiki.net/wiki/Koakuma",
+			"regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1214",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1214_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1214.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
             "straps": [
                 {
                     "name": "Mini Plush",
@@ -2603,6 +2748,18 @@
         {
             "ch_name": "Daiyousei",
             "thwiki": "https://en.touhouwiki.net/wiki/Daiyousei",
+			"regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1211",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1211_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1211.html",
+                    "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                }
+            ],
             "straps": [
                 {
                     "name": "Mini Plush",
@@ -2723,6 +2880,51 @@
                         2025
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1157.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Iizunamaru Megumu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Megumu_Iizunamaru",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1217",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1217_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1217.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kudamaki Tsukasa",
+            "thwiki": "https://en.touhouwiki.net/wiki/Tsukasa_Kudamaki",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1216",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1216_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1216.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Clownpiece",
+            "thwiki": "https://en.touhouwiki.net/wiki/Clownpiece",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1215",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1215_01.jpg",
+                    "release_dates": [
+                        2025
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1215.html"
                 }
             ]
         }
@@ -3813,6 +4015,30 @@
                     "とうてつゆうま"
                 ],
                 "en": "Toutetsu Yuuma"
+            },
+			{
+                "type": "Character",
+                "jp": "飯綱丸龍",
+                "jp_alt": [
+                    "飯いいずなまるめぐむ"
+                ],
+                "en": "Iizunamaru Megumu"
+            },
+			{
+                "type": "Character",
+                "jp": "菅牧　典",
+                "jp_alt": [
+                    "くだまきつかさ"
+                ],
+                "en": "Kudamaki Tsukasa"
+            },
+			{
+                "type": "Character",
+                "jp": "クラウンピース",
+                "jp_alt": [
+                    
+                ],
+                "en": "Clownpiece"
             }
         ]
     },
