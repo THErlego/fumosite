@@ -94,6 +94,15 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1212.html",
                     "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                },
+                {
+                    "name": "Lunar War Shaman Ver.",
+                    "id": "1264",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1264_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1264.html"
                 }
             ],
             "straps": [
@@ -178,7 +187,8 @@
                     "id": "1064",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1064_01.jpg",
                     "release_dates": [
-                        2024
+                        2024,
+						2026
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1064.html"
                 }
@@ -302,6 +312,15 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1213.html",
                     "amiami_link": "https://www.amiami.com/eng/search/list/?s_keywords=Touhou+Plush+Gift"
+                },
+                {
+                    "name": "Lunar War-Type Enchanter Ver.",
+                    "id": "1265",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1265_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1265.html"
                 }
             ],
             "straps": [
@@ -380,7 +399,8 @@
                     "id": "1065",
                     "img": "https://www.gift-gift.jp/nui/files/images/nui1065_01.jpg",
                     "release_dates": [
-                        2024
+                        2024,
+						2026
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1065.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480675"
@@ -467,6 +487,15 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1084.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04482584"
+                },
+                {
+                    "name": "LostWord ~ Moon Battle Type Servant ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 },
                 {
                     "name": "Inu (Dog) ver.",
@@ -912,6 +941,15 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1034.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04417655"
+                },
+                {
+                    "name": "LostWord ~ The Blooming Devil's Little Sister ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ],
             "straps": [
@@ -1239,6 +1277,16 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1121.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04549457"
+                },
+				,
+                {
+                    "name": "Yukkuri (45cm)",
+                    "id": "1122",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1273_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1273.html"
                 }
             ]
         },
@@ -1352,6 +1400,15 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1159.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04556575"
+                },
+				{
+                    "name": "LostWord ~ Moon Battle Gardener ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ],
             "straps": [
@@ -1719,6 +1776,17 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui138.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04262774"
                 }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1275",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1275_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1275.html"
+                }
             ]
         },
         {
@@ -1763,6 +1831,17 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui1072.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480775"
                 }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1274",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1274_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1274.html"
+                }
             ]
         },
         {
@@ -1788,6 +1867,16 @@
                     "second_hand_cost": "Normal",
                     "gift_link": "https://www.gift-gift.jp/nui/nui196.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04230795"
+                },
+                {
+                    "name": "17cm ver.",
+                    "id": "1182",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1182_01.jpg",
+                    "release_dates": [
+                        2025,
+						2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1182.html"
                 }
             ],
             "straps": [
@@ -1875,6 +1964,25 @@
                     ],
                     "gift_link": "https://www.gift-gift.jp/nui/nui1085.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04482586"
+                },
+                {
+                    "name": "17cm ver.",
+                    "id": "1183",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1183_01.jpg",
+                    "release_dates": [
+                        2025,
+						2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1183.html"
+                },
+                {
+                    "name": "LostWord ~ Blooming Love Eyes ver.",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
                 }
             ],
             "straps": [
@@ -2048,6 +2156,17 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui1074.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480777"
                 }
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1277",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1277_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1277.html"
+                }
             ]
         },
         {
@@ -2207,7 +2326,18 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui1073.html",
                     "amiami_link": "https://www.amiami.com/eng/detail/?gcode=GOODS-04480776"
                 }
-            ]
+            ],
+			"mannakas": [
+                {
+                    "name": "Medium Size ver.",
+                    "id": "1276",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1276_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1276.html"
+                }
+            ],
         },
         {
             "ch_name": "Yorigami Shion",
@@ -2927,7 +3057,173 @@
                     "gift_link": "https://www.gift-gift.jp/nui/nui1215.html"
                 }
             ]
+        },
+        {
+            "ch_name": "Lunasa Prismriver",
+            "thwiki": "https://en.touhouwiki.net/wiki/Lunasa_Prismriver",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1270",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1270_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1270.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Merlin Prismriver",
+            "thwiki": "https://en.touhouwiki.net/wiki/Merlin_Prismriver",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1271",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1271_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1271.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Lyrica Prismriver",
+            "thwiki": "https://en.touhouwiki.net/wiki/Lyrica_Prismriver",
+            "straps": [
+                {
+                    "name": "Mini Plush",
+                    "id": "1272",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1272_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1272.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Doremy Sweet",
+            "thwiki": "https://en.touhouwiki.net/wiki/Doremy_Sweet",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1269",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1269_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1269.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kaku Seiga",
+            "thwiki": "https://en.touhouwiki.net/wiki/Seiga_Kaku",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1268",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1268_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1268.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Murasa Minamitsu",
+            "thwiki": "https://en.touhouwiki.net/wiki/Murasa_Minamitsu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1267",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1267_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1267.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Onozuka Komachi",
+            "thwiki": "https://en.touhouwiki.net/wiki/Onozuka_Komachi",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "1266",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui1266_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui1266.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Wriggle Nightbug",
+            "thwiki": "https://en.touhouwiki.net/wiki/Wriggle_Nightbug",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Mystia Lorelei",
+            "thwiki": "https://en.touhouwiki.net/wiki/Mystia_Lorelei",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Kamishirasawa Keine",
+            "thwiki": "https://en.touhouwiki.net/wiki/Keine_Kamishirasawa",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
+        },
+        {
+            "ch_name": "Yomotsu Hisami",
+            "thwiki": "https://en.touhouwiki.net/wiki/Hisami_Yomotsu",
+            "regular": [
+                {
+                    "name": "ver.1",
+                    "id": "9999",
+                    "img": "https://www.gift-gift.jp/nui/files/images/nui9999_01.jpg",
+                    "release_dates": [
+                        2026
+                    ],
+                    "gift_link": "https://www.gift-gift.jp/nui/nui9999.html"
+                }
+            ]
         }
+		
     ],
     "faq": [
         {
@@ -3318,6 +3614,14 @@
                 ],
                 "en": "Himekaidou Hatate"
             },
+			{
+                "type": "Character",
+                "jp": "姫虫 百々世",
+                "jp_alt": [
+                    "ひめむし ももよ"
+                ],
+                "en": "Himemushi Momoyo"
+            },
             {
                 "type": "Character",
                 "jp": "比那名居天子",
@@ -3380,6 +3684,14 @@
                     "いぶきすいか"
                 ],
                 "en": "Ibuki Suika"
+            },
+			{
+                "type": "Character",
+                "jp": "飯綱丸龍",
+                "jp_alt": [
+                    "飯いいずなまるめぐむ"
+                ],
+                "en": "Iizunamaru Megumu"
             },
             {
                 "type": "Character",
@@ -3533,6 +3845,14 @@
                 ],
                 "en": "Kochiya Sanae"
             },
+			{
+                "type": "Character",
+                "jp": "駒草 山如",
+                "jp_alt": [
+                    "こまくさ さんにょ"
+                ],
+                "en": "Komakusa Sannyo"
+            },
             {
                 "type": "Character",
                 "jp": "高麗野あうん",
@@ -3564,6 +3884,14 @@
                     "こんぱくようむ"
                 ],
                 "en": "Konpaku Youmu"
+            },
+			{
+                "type": "Character",
+                "jp": "菅牧　典",
+                "jp_alt": [
+                    "くだまきつかさ"
+                ],
+                "en": "Kudamaki Tsukasa"
             },
             {
                 "type": "Character",
@@ -3640,6 +3968,14 @@
                 "jp": "メルラン・プリズムリバー",
                 "jp_alt": [],
                 "en": "Merlin Prismriver"
+            },
+			{
+                "type": "Character",
+                "jp": "豪徳寺 ミケ",
+                "jp_alt": [
+                    "ごうとくじ ミケ"
+                ],
+                "en": "Mike Goutokuji"
             },
             {
                 "type": "Character",
@@ -3850,6 +4186,14 @@
                 ],
                 "en": "Sukuna Shinmyoumaru"
             },
+			{
+                "type": "Character",
+                "jp": "玉造 魅須丸 ",
+                "jp_alt": [
+                    "たまつくり み す まる"
+                ],
+                "en": "Tamatsukuri Misumaru"
+            },
             {
                 "type": "Character",
                 "jp": "多々良小傘",
@@ -3866,6 +4210,14 @@
                 ],
                 "en": "Teireida Mai"
             },
+			{
+                "type": "Character",
+                "jp": "天弓 千亦",
+                "jp_alt": [
+                    "てんきゅう ちまた"
+                ],
+                "en": "Tenkyuu Chimata"
+            },
             {
                 "type": "Character",
                 "jp": "寅丸星",
@@ -3873,6 +4225,14 @@
                     "とらまるしょう"
                 ],
                 "en": "Toramaru Shou"
+            },
+			{
+                "type": "Character",
+                "jp": "饕餮尤魔",
+                "jp_alt": [
+                    "とうてつゆうま"
+                ],
+                "en": "Toutetsu Yuuma"
             },
             {
                 "type": "Character",
@@ -3976,6 +4336,14 @@
                 ],
                 "en": "Yakumo Yukari"
             },
+			{
+                "type": "Character",
+                "jp": "山城 たかね",
+                "jp_alt": [
+                    "やましろ たかね"
+                ],
+                "en": "Yamashiro Takane"
+            },
             {
                 "type": "Character",
                 "jp": "八坂神奈子",
@@ -4007,39 +4375,10 @@
                     "よりがみしおん"
                 ],
                 "en": "Yorigami Shion"
-            },
-            {
-                "type": "Character",
-                "jp": "饕餮尤魔",
-                "jp_alt": [
-                    "とうてつゆうま"
-                ],
-                "en": "Toutetsu Yuuma"
-            },
-			{
-                "type": "Character",
-                "jp": "飯綱丸龍",
-                "jp_alt": [
-                    "飯いいずなまるめぐむ"
-                ],
-                "en": "Iizunamaru Megumu"
-            },
-			{
-                "type": "Character",
-                "jp": "菅牧　典",
-                "jp_alt": [
-                    "くだまきつかさ"
-                ],
-                "en": "Kudamaki Tsukasa"
-            },
-			{
-                "type": "Character",
-                "jp": "クラウンピース",
-                "jp_alt": [
-                    
-                ],
-                "en": "Clownpiece"
             }
+            
+			
+			
         ]
     },
     "forwarders": [
